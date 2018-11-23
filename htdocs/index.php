@@ -6,6 +6,7 @@
 	echo 123;
 	
 	$var1 = 'Hello new branch';
+	echo "Branch master";
 	echo $var1;
 	
 	
