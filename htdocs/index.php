@@ -8,5 +8,6 @@
 	$var1 = 'Hello new branch';
 	echo "Branch master";
 	echo $var1;
+	echo <br />
 	
 	
